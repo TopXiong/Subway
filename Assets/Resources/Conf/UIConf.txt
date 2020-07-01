@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<items>
+
+<store Id="1">
+
+    <name>商店1</name>
+
+    <id>1</id>
+
+    <price>700</price>
+
+</store>
+
+<store Id="2">
+
+	<name>商店2</name>
+
+	<id>2</id>
+
+	<price>700</price>
+
+ </store>
+
+ <store Id="3">
+
+	<name>商店3</name>
+
+	<id>3</id>
+
+   <price>700</price>
+
+ </store>
+
+   <store Id="4">
+
+	<name>商店4</name>
+
+	<id>4</id>
+
+  <price>700</price>
+
+  </store>
+
+  <advertisement Id="1">
+
+   <name>广告1</name>
+
+	<id>1</id>
+
+	<price>200</price>
+
+   </advertisement>
+
+<advertisement Id="2">
+
+   <name>广告2</name>
+
+	<id>2</id>
+
+	<price>200</price>
+
+   </advertisement>
+   
+   <advertisement Id="3">
+
+   <name>广告3</name>
+
+	<id>3</id>
+
+	<price>200</price>
+
+   </advertisement>
+   
+   <advertisement Id="4">
+
+   <name>广告4</name>
+
+	<id>4</id>
+
+	<price>200</price>
+
+   </advertisement>
+
+</items>
